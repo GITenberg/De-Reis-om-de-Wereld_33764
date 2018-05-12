@@ -1,0 +1,38 @@
+_repo: De-Reis-om-de-Wereld_33764
+_version: 0.1.0
+alternative_title: Voyage of the Beagle. Dutch
+contributor:
+  translator:
+    agent_name: Brandt, J.
+    gutenberg_agent_id: '36591'
+    url: http://www.gutenberg.org/2009/agents/36591
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: 'Translation of: Voyage of the Beagle'
+gutenberg_issued: '2010-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33764'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'South America -- Discovery and exploration'
+- !lcsh 'Beagle Expedition (1831-1836)'
+- !lcsh 'Natural history'
+- !lcsh 'Voyages around the world -- History -- 19th century'
+- !lcsh 'Geology'
+title: De Reis om de Wereld
+url: http://www.gutenberg.org/ebooks/33764
